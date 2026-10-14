@@ -8,6 +8,8 @@ authenticated Fabric experience.
 > React + TypeScript · Rayfin · Microsoft Fabric SSO · Per-user status
 > persistence · OpenStreetMap · Fabric Vega visuals
 
+![Marketing campaign board]([demo/Microsoft Fabric Rayfin - Marketing Campaign-Github.mp4])
+
 ![Marketing campaign board](demo/marketing-campaign-board.png)
 
 ## Table of contents
